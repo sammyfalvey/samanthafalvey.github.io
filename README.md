@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Samantha Falvey</title>
-	<link rel ="stylesheet" href="/Users/sammyfalvey/Desktop/Code/mySite/CSS/mySiteStylesheet.css"> 
+	<link rel ="stylesheet" href="~/Documents/GitHub/samanthafalvey.github.io/styleSheet.css"> 
 	<script src = "/Users/sammyfalvey/Desktop/Code/mySite/JS/mySiteJS.js"></script>
 
 
@@ -19,7 +19,7 @@
 
 <nav>
 <a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/mySiteIndex.html">Home</a>
-<a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/SWOT.html">SWOT</a>
+<a href = "file:///Users/sammyfalvey/Documents/GitHub/samanthafalvey.github.io/SWOT1.html">SWOT</a>
 <a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/moreAboutMe.html">More About Me</a>
 <a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/Resume.html">Resume </a>
 </nav>
