@@ -92,7 +92,7 @@ h2.welcome{
 
 #firstp{
     margin: 10px;
-    width: 70%;
+    width: 60%;
     padding: 10px;
      display: inline-block;
      float: center;
@@ -106,14 +106,14 @@ h2.welcome{
     font-size: 15px;
     display: inline-block;
     float: right;
-    width: 100px; 
+    width: 200px; 
     
     
 }
 #leftwelcome{
     display: inline-block;
     float: left;
-    width: 70%;
+    width: 60%;
     padding: 15px;
     margin-right: 200px;
     
