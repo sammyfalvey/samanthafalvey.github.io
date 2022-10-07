@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -16,7 +16,7 @@
 
 <body>
 <header>
-<h1> Samantha Falvey </h1>
+
 <nav>
 <a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/mySiteIndex.html">Home</a>
 <a href = "file:///Users/sammyfalvey/Desktop/Code/mySite/SWOT.html">SWOT</a>
