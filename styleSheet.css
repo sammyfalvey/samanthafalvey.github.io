@@ -93,3 +93,49 @@ h2.welcome{
 #firstp{
     margin: 10px;
     width: 70%;
+    padding: 10px;
+     display: inline-block;
+     float: center;
+     margin-bottom: 50px;
+
+}
+
+
+ 
+#rightwelcome{
+    font-size: 15px;
+    display: inline-block;
+    float: right;
+    width: 100px; 
+    
+    
+}
+#leftwelcome{
+    display: inline-block;
+    float: left;
+    width: 70%;
+    padding: 15px;
+    margin-right: 200px;
+    
+}
+
+ 
+ #MBTI, #clifton {
+    font-size: 20px;
+    padding: 0px;
+}
+
+/*statement of interest */
+
+
+ *{
+    font-family: "Monaco";
+    margin: 20px;
+}
+
+p{
+    padding-top: 10px;
+}
+
+
+ 
