@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Samantha Falvey</title>
-	<link rel ="stylesheet" href="~/Documents/GitHub/samanthafalvey.github.io/styleSheet.css"> 
+	<link rel ="stylesheet" href="styleSheet.css"> 
 	<script src = "/Users/sammyfalvey/Desktop/Code/mySite/JS/mySiteJS.js"></script>
 
 
