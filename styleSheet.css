@@ -137,6 +137,9 @@ img.contact {
     float: center;
     width: 75px;
 }
+#ba {
+  background-color: #BEEF71;
+}
 
 #story1, #story3 {
     background-color: #BEEF71;
