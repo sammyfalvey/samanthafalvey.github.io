@@ -22,7 +22,11 @@ nav a{
     display: inline-block;
     text-decoration: none;
     color: #000000;
-    margin: 5px;  
+    margin: 5px; 
+}
+
+nav a:hover{
+    background-color: #BEEF71;
 }
 
 nav{
@@ -128,6 +132,7 @@ h2.welcome{
 }
 
 img.contact {
+    display: inline-block;
     float: center;
     width: 100px;
 }
