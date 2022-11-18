@@ -131,6 +131,8 @@ h2.welcome{
  #MBTI, #clifton {
     font-size: 20px;
     padding: 0px;
+    display: inline-block;
+    float: right;
 }
 
 img.contact {
