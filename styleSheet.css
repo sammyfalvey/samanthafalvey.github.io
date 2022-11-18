@@ -9,6 +9,8 @@ h2{
  *{
     font-family: Georgia, serif;
     margin: 20px;
+   background-color: 	#F0FFFF ;
+}
 }
 
 p{
@@ -26,7 +28,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: rgb(135, 206, 235, 0.7) ;
+    background-color: 	#F0FFFF ;
 }
 
 nav{
@@ -158,5 +160,6 @@ background: -moz-linear-gradient(top, rgba(215, 212, 249, 0.7) 0%, rgb(135, 206,
 background: -webkit-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7)  100%);
 background: -o-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%);
 background: linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%); 
+ height: 100px;
 }
 
