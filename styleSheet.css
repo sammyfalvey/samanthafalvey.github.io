@@ -86,11 +86,12 @@ h1{
 h2.welcome{
   width: 700px;
   display: inline-block;
+ float: left;
 
 }
 
 #frontPhoto{
-    width: 160px;
+    width: 180px;
     display: inline-block;
     float: right;
 
@@ -107,13 +108,10 @@ h2.welcome{
      display: inline-block;
      float: center;
      margin-bottom: 20px;
-   float: left;
 }
 
 #rightwelcome{
     font-size: 15px;
-    display: inline-block;
-    float: right;
     width: 25%; 
     
     
@@ -130,8 +128,6 @@ h2.welcome{
  #MBTI, #clifton {
     font-size: 20px;
     padding: 0px;
-    display: inline-block;
-    float: right;
 }
 
 img.contact {
@@ -154,3 +150,4 @@ img.contact {
  float: center;
 }
  
+
