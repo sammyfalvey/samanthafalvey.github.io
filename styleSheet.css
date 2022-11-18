@@ -26,7 +26,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: #BEEF71;
+    background-color: #71DCEF;
 }
 
 nav{
@@ -90,7 +90,7 @@ h2.welcome{
 }
 
 #frontPhoto{
-    width: 140px;
+    width: 160px;
     display: inline-block;
     float: right;
 
@@ -139,11 +139,11 @@ img.contact {
     width: 75px;
 }
 #ba {
-  background-color: #BEEF71;
+  background-color: #71DCEF;
 }
 
 #story1, #story3 {
-    background-color: #BEEF71;
+    background-color: #71DCEF;
 }
     
  
