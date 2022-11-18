@@ -34,10 +34,7 @@ nav{
     float: right;
 }
 
-h1{
-    display: inline-block;
- margiin: 30px;
-} 
+
  
  #logo {
     width: 20px;
@@ -148,6 +145,15 @@ img.contact {
  width: 400px ;
  display: inline-block;
  float: center;
+ padding: 30px;
 }
  
+h1{
+    display: inline-block;
+ margiin: 30px;
+} 
+
+header{
+ 
+}
 
