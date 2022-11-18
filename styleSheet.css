@@ -26,7 +26,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: #A0E3FA;
+    background-color: rgb(135, 206, 235, 0.7) ;
 }
 
 nav{
@@ -134,7 +134,7 @@ img.contact {
 }
 
 #story1, #story3, #ba, #project1 {
-    background-color: #A0E3FA;
+    background-color: rgb(135, 206, 235) ;
 }
 
 #story2, #story4, #project2, #se{
@@ -154,6 +154,9 @@ h1{
 } 
 
 header{
- 
+background: -moz-linear-gradient(top, rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7)  100%);
+background: -webkit-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7)  100%);
+background: -o-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%);
+background: linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%); 
 }
 
