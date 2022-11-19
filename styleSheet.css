@@ -27,9 +27,7 @@ nav a{
     margin: 5px; 
 }
 
-nav a:hover{
-    background-color: 	#F0FFFF ;
-}
+
 
 nav{
     display: inline-block;
@@ -112,7 +110,8 @@ h2.welcome{
 #rightwelcome{
     font-size: 15px;
     width: 25%; 
-    
+     display: inline-block;
+    float: right;
     
 }
 #leftwelcome{
@@ -161,5 +160,9 @@ background: -webkit-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 
 background: -o-linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%);
 background: linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7) 100%); 
  height: 100px;
+}
+
+nav a:hover{
+    background-color: 	#F0FFFF ;
 }
 
