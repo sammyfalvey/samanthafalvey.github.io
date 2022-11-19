@@ -108,13 +108,6 @@ h2.welcome{
 }
 */
 
-#rightwelcome{
-    font-size: 15px;
-    width: 25%; 
-     display: inline-block;
-    float: right;
-    
-}
 #leftwelcome{
     display: inline-block;
     float: left;
@@ -122,6 +115,14 @@ h2.welcome{
     margin-right: 8%;
     
 }
+#rightwelcome{
+    font-size: 15px;
+    width: 25%; 
+     display: inline-block;
+    float: left;
+    
+}
+
 
  
  #MBTI, #clifton {
