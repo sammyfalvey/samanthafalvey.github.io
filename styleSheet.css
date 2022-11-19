@@ -9,7 +9,7 @@ h2{
  *{
     font-family: Georgia, serif;
     margin: 20px;
-   background-color: 	#F0FFFF ;
+   
 }
 
 
@@ -166,6 +166,6 @@ background: linear-gradient( rgba(215, 212, 249, 0.7) 0%, rgb(135, 206, 235, 0.7
 }
 
 nav a:hover{
-    background-color:rgba(215, 212, 249);
+    background-color: 	#F0FFFF ;
 }
 
