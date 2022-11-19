@@ -2,7 +2,7 @@
 h2{
  
     margin-left: 20px;
-    padding: 10px;
+    
 }
 
  *{
@@ -91,7 +91,6 @@ nav{
 }
 
 
-
  
  #MBTI, #clifton {
     font-size: 20px;
@@ -105,11 +104,11 @@ img.contact {
  padding: 10px;
 }
 
-#story1, #story3, #ba, #project1 {
+#story1, #story3, #ba, #project1, #welcomeleft {
     background-color: rgb(135, 206, 235, 0.7) ;
 }
 
-#story2, #story4, #project2, #se{
+#story2, #story4, #project2, #se, #welcomeright{
    background-color: rgba(215, 212, 249, 0.7) ;
 }
 
