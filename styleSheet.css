@@ -3,7 +3,7 @@ h2{
  
     margin-left: 10px;
     padding: 10px;
-
+    background-color: 	#F0FFFF;
 }
 
  *{
@@ -108,20 +108,7 @@ h2.welcome{
 }
 */
 
-#leftwelcome{
-    display: inline-block;
-    float: left;
-    width: 70%;
-    margin-right: 8%;
-    
-}
-#rightwelcome{
-    font-size: 15px;
-    width: 25%; 
-     display: inline-block;
-    float: left;
-    
-}
+
 
 
  
@@ -133,15 +120,16 @@ h2.welcome{
 img.contact {
     display: inline-block;
     float: center;
-    width: 75px;
+    width: 100px;
+ padding: 10px;
 }
 
 #story1, #story3, #ba, #project1 {
-    background-color: rgb(135, 206, 235) ;
+    background-color: rgb(135, 206, 235, 0.7) ;
 }
 
 #story2, #story4, #project2, #se{
-   background-color: #D7D4F9;
+   background-color: (215, 212, 249, 0.7) ;
 }
 
 #v1, #v2 {
@@ -153,7 +141,7 @@ img.contact {
  
 h1{
     display: inline-block;
- margiin: 30px;
+  
 } 
 
 header{
