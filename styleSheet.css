@@ -108,10 +108,13 @@ img.contact {
     background-color: rgb(135, 206, 235, 0.7) ;
 }
 
-#story2, #story4, #project2, #se, #right welcome, h2{
+#story2, #story4, #project2, #se, #rightwelcome, h2{
    background-color: rgba(215, 212, 249, 0.7) ;
 }
 
+#leftwelcome{
+  padding-top: 10px;
+}
 #v1, #v2 {
  width: 400px ;
  display: inline-block;
